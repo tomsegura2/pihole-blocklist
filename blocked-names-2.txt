@@ -463525,8 +463525,8 @@ ims-na1-prprod.adobelogin.com
 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 helpexamples.com
 workflow-ui-prod.licensingstack.com
-*.data.microsoft.com
-*.data-api.similarsites.com
+data.microsoft.com
+data-api.similarsites.com
 tss-geotrust-crl.thawte.com
 ocsp.spo1.verisign.com
 activate.adobe.de
